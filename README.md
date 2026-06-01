@@ -47,9 +47,9 @@ data cleaning → EDA → visualization → business insight.
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
-
+![Dashboard Preview](assets/dashboard_preview.png) 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/fatwa.nurhidayat/viz/E-CommercePeformanceDashboard/E-CommerceSalesAnalysisDashboard) 
+
 ---
 
 ## Key Findings
