@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Performance Analysis — Brazil 2017–2018
+# 🛒 E-Commerce Performance Analysis | Brazil 2017–2018
 
 A data analyst portfolio project analyzing Brazilian e-commerce transactions using Python (Jupyter Notebook) and Tableau. The dataset covers 110,000+ orders across 2017–2018, exploring revenue trends, product performance, customer satisfaction, and delivery efficiency.
 
