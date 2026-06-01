@@ -1,18 +1,41 @@
 # 🛒 E-Commerce Performance Analysis | Brazil 2017–2018
 
-A data analyst portfolio project analyzing Brazilian e-commerce transactions using Python (Jupyter Notebook) and Tableau. The dataset covers 110,000+ orders across 2017–2018, exploring revenue trends, product performance, customer satisfaction, and delivery efficiency.
+> **A data analyst portfolio project analyzing Brazilian e-commerce transactions using Python (Jupyter Notebook) and Tableau. The dataset covers 110,000+ orders across 2017–2018, exploring revenue trends, product performance, customer satisfaction, and delivery efficiency.**
 
 ---
 
-## 📊 Live Dashboard
+## 🗂️ Table of Contents
 
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/fatwa.nurhidayat/viz/E-CommercePeformanceDashboard/E-CommerceSalesAnalysisDashboard) 
-
-![Dashboard Preview](assets/dashboard_preview.png)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Business Questions](#business-questions)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Findings](#key-findings)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Tools](#tools)
+- [About](#about)
 
 ---
 
-## ❓ Business Questions
+## Overview
+End-to-end exploratory data analysis of Brazilian e-commerce transactions from Olist (2017–2018), covering revenue trends, product performance, customer satisfaction, and delivery efficiency across 110.042 orders.
+
+This project demonstrates full data analytics workflow:
+data cleaning → EDA → visualization → business insight.
+
+---
+
+## Dataset
+
+- **Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — Kaggle
+- **Period:** January 2017 – August 2018
+- **Records:** 110,422 orders
+- **Key fields:** `order_id`, `payment_value`, `review_score`, `order_status`, `customer_state`, `delivery_date`
+
+---
+
+## Business Questions
 
 1. **How did monthly revenue trend from 2017–2018?**
 2. **Which product categories drove the most sales?**
@@ -22,7 +45,15 @@ A data analyst portfolio project analyzing Brazilian e-commerce transactions usi
 
 ---
 
-## 💡 Key Findings
+## Dashboard Preview
+
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/fatwa.nurhidayat/viz/E-CommercePeformanceDashboard/E-CommerceSalesAnalysisDashboard) 
+
+![Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
+## Key Findings
 
 | # | Question | Finding |
 |---|----------|---------|
@@ -34,7 +65,7 @@ A data analyst portfolio project analyzing Brazilian e-commerce transactions usi
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 e-commerce-analysis/
@@ -57,27 +88,7 @@ e-commerce-analysis/
 
 ---
 
-## 🔧 Tools & Stack
-
-| Tool | Purpose |
-|------|---------|
-| Python (Pandas, Matplotlib, Seaborn) | Data cleaning & EDA |
-| Jupyter Notebook | Analysis & documentation |
-| Tableau Public | Interactive dashboard |
-| GitHub | Version control & portfolio hosting |
-
----
-
-## 📁 Dataset
-
-- **Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — Kaggle
-- **Period:** January 2017 – August 2018
-- **Records:** 110,422 orders
-- **Key fields:** `order_id`, `payment_value`, `review_score`, `order_status`, `customer_state`, `delivery_date`
-
----
-
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
    ```bash
@@ -99,8 +110,20 @@ e-commerce-analysis/
 
 ---
 
-## 👤 Author
+## Tools
+
+| Tool | Purpose |
+|------|---------|
+| Python (Pandas, Matplotlib, Seaborn) | Data cleaning & EDA |
+| Jupyter Notebook | Analysis & documentation |
+| Tableau Public | Interactive dashboard |
+| GitHub | Version control & portfolio hosting |
+
+---
+
+## Author
 
 **Fatwa Nurhidayat**
 - GitHub: [@fatwanurhdyt](https://github.com/fatwanurhdyt)
 - LinkedIn: [linkedin.com/in/fatwanurhdyt](https://linkedin.com/in/fatwanurhdyt)
+- Email: [fatwa.nrhdyt@gmail.com](mailto:fatwa.nrhdyt@gmail.com)
