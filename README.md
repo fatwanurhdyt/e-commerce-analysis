@@ -1,16 +1,19 @@
-# 🛒 E-Commerce Performance Analysis | Brazil 2017–2018
+# E-Commerce Performance Analysis | Brazil 2017–2018
 
 > **A data analyst portfolio project analyzing Brazilian e-commerce transactions using Python (Jupyter Notebook) and Tableau. The dataset covers 110,000+ orders across 2017–2018, exploring revenue trends, product performance, customer satisfaction, and delivery efficiency.**
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Business Questions](#business-questions)
+- [Analysis Workflow](#analysis-workflow)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Findings](#key-findings)
+- [Insights](#insights)
+- [Business Recommendations](#business-recommendations)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Tools](#tools)
@@ -45,6 +48,10 @@ data cleaning → EDA → visualization → business insight.
 
 ---
 
+## Analysis Workflow
+???
+
+---
 ## Dashboard Preview
 
 ![Dashboard Preview](assets/dashboard_preview.png) 
@@ -61,6 +68,16 @@ data cleaning → EDA → visualization → business insight.
 | 3 | Customer Satisfaction | **63,013 orders (57%)** rated 5/5 — overall avg score **4.08/5.00**, indicating high satisfaction |
 | 4 | Orders by State | **São Paulo (SP)** dominates with 46,529 orders, followed by RJ (14,183) and MG (12,936) |
 | 5 | Delivery Efficiency | On-time rate of **92.6%** overall; SP delivers in ~8 days while remote states like AM/RR average 25–28 days |
+
+---
+
+## Insights
+???
+
+---
+
+## Business Recommendations
+???
 
 ---
 
