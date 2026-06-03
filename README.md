@@ -224,7 +224,7 @@ e-commerce-analysis/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/fatwanurhdyt/E-Commerce-Analysis.git
+   git clone https://github.com/fatwanurhdyt/e-commerce-analysis.git
    cd e-commerce-analysis
    ```
 
